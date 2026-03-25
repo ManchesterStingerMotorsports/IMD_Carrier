@@ -1,4 +1,4 @@
-26792907072536152
+26796455968247711
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59514,6 +59514,13 @@ Hazard Shock Tractive System Symbol Electric Warning High Voltage
 0
 0
 Custom_MSM
+Dual NAND, Quad input
+D (-R-PDSO-G14)
+Integrated Circuit
+0
+14
+14
+Custom_MSM
 KP1608SURCK
 1.6 mm x 0.8 mm SMD LED, 1.1 mm
 LED
@@ -59527,6 +59534,13 @@ TSOT-23 SOT-23 MOSFET Single FET P-Channel N-Channel P N Channel
 0
 3
 3
+Custom_MSM
+QUAD NAND (Works at 12V logic)
+HEF4051BT,653-2
+Integrated Circuit
+0
+16
+16
 Custom_MSM
 RELAY_ALQ305
 
